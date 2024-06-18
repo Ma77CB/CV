@@ -103,7 +103,7 @@ header {
 
 .foto-perfil {
     width: 150px; 
-    height: 150px;
+    height: 100px;
     object-fit: cover;
     border-radius: 10px; 
     border: 2px solid #ccc;
